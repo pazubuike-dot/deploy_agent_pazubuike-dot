@@ -72,5 +72,9 @@ chmod +x setup_project.sh
 
 ./setup_project.sh
 
+Author
+Precious Amarachi Azubuike
 
+Link to my demo-video
 
+https://drive.google.com/file/d/1KOVrgCuWbx57LaMa03IBwxtLCjBSH3eJ/view?usp=drivesdk
